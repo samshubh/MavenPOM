@@ -1,0 +1,8 @@
+com\qa\pages\LoginPage.class
+com\qa\pages\OpenRegister.class
+com\qa\util\TestUtil.class
+com\qa\pages\MyOrdersPage.class
+com\qa\pages\MyAccountPage.class
+com\qa\pages\CloseRegisterPage.class
+com\qa\pages\ProductsPage.class
+com\qa\testbase\TestBase.class
